@@ -1,1 +1,1 @@
-<h1 align="center"> 👋 Hi, I’m @Luís Henrique </h1>
+<h2 align="center"> 👋 Hi, I’m @Luís Henrique </h2>

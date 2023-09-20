@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,i am Luís Henrique</h1>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luishenriquedev7" alt="luishenriquedev7" /></a>
+    <a href="http://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luishenriquedev7" alt="luishenriquedev7" /></a>
 </p>
 
 - 🌱 I'm currently learning **Java, and Python**.
@@ -22,7 +22,7 @@
       <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" alt="git" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luishenriquedev7&layout=compact&langs_count=6&theme=tokyonight" alt="luishenriquedev7" /> </p>
+<p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=luishenriquedev7&layout=compact&langs_count=6&theme=tokyonight" alt="luishenriquedev7" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luishenriquedev7&" alt="luishenriquedev7" /> </p>
-<p><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=luishenriquedev7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=luishenriquedev7&" alt="luishenriquedev7" /> </p>
+<p><img loading="lazy" src="http://github-readme-stats.vercel.app/api?username=luishenriquedev7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>

@@ -4,7 +4,7 @@
     <a href="http://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luishenriquedev7" alt="luishenriquedev7" /></a>
 </p>
 
-- 🌱 I'm currently learning **Java, and Python**.
+- 🌱 I am studying **Software Engineering**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

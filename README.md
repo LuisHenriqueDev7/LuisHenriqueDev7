@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,i am Luís Henrique</h1>
+<h1 align="center">Hi 👋,I am Luís Henrique</h1>
 
 <p align="left">
     <a href="http://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luishenriquedev7" alt="luishenriquedev7" /></a>
